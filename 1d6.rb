@@ -1,4 +1,3 @@
-
 numbers = []
 
 while numbers.size < 10
@@ -7,6 +6,3 @@ end
 
 puts numbers
 
-puts "hello"
-
-puts "testing out the branches"
